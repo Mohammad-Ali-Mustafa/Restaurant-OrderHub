@@ -1,0 +1,184 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(105, 156, 211);
+    /* padding: 0;
+    margin: 0; */
+}
+fieldset{
+    border: 2px solid rgb(15, 55, 255);
+    color: white;
+    font-weight: bold;
+}
+legend{
+    margin-left: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-size: 40px;
+    color: rgb(15, 55, 255);
+}
+.line{
+    width: cover;
+    height: 4px;
+    background-color: aliceblue;
+    margin-top: 20px;
+}
+.mainform1{
+    height: 200px;
+    display: flex;
+}
+.form1{
+    width: 350px;
+    height: 400px;
+    margin-top: 30px;
+    margin-left: 230px;
+}
+.form2{
+    width: 350px;
+    height: 400px;
+    margin-top: 30px;
+    margin-left: 180px;
+}
+#fname{
+    background-color: white;
+    border: 2px solid rgb(15, 55, 255);
+    height: 22px;
+    outline: 0;
+    font-weight: bold;
+}
+#lname{
+    background-color: white;
+    border: 2px solid rgb(15, 55, 255);
+    height: 22px;
+    outline: 0;
+    font-weight: bold;
+}
+#fname1{
+    /* background-color: white; */
+    border: 0px solid rgb(15, 55, 255);
+    height: 22px;
+    outline: 0;
+    color: white;
+    font-weight: bold;
+}
+#lname1{
+    /* background-color: white; */
+    border: 0px solid rgb(15, 55, 255);
+    height: 22px;
+    outline: 0;
+    color: white;
+    font-weight: bold;
+}
+.itemsinput{
+    /* background-color: aqua; */
+    width: 250px;
+    /* display: none; */
+    margin-left: 230px;
+    height:400px;
+}
+.form3{
+    margin-top: 85px;
+    width: 355px;
+    position: relative;
+}
+#myform1,#myform2,#myform3,#myform4{
+    width: 240px;
+    background-color: white;
+    border: 2px solid rgb(15, 55, 255);
+    height: 22px;
+    outline: 0;
+    font-weight: bold;
+    margin-top: 5px;
+}
+.orderbox{
+    /* background-color: antiquewhite; */
+    /* height: 100px; */
+    width: 600px;
+    margin-left: 690px;
+    margin-top: -400px;
+    /* display: none; */
+    position: relative;
+    /* border: 2px solid black; */
+    height:400px;
+}
+.main123{
+    width: 300px;
+    /* color: black; */
+    height: 309px;
+    /* display: none; */
+}
+.item{
+    font-size: 30px;
+    font-weight: lighter;
+    padding-left: -0px;
+}
+.quantity{
+    padding-left: 30px;
+    font-size: 30px;
+    font-weight: lighter;
+}
+.price{
+    padding-left: 70px;
+    font-size: 30px;
+    font-weight: lighter;
+}
+.total{
+    padding-left: 70px;
+    font-size: 30px;
+    font-weight: lighter;
+}
+#itemkarahi{
+    padding-left: 45px;
+    padding-top: 30px;
+}
+#quankarahi{
+    padding-left: 80px;
+    padding-top: 30px;
+}
+#pricekarahi{
+    padding-left: 90px;
+    padding-top: 30px;
+}
+#total{
+    padding-left: 99px;
+    padding-top: 30px;
+}
+.karahi , .chicken , .zinger , .rice{
+    display: none;
+}
+.finaldiv{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-top: -30px;
+    position: relative;
+}
+.totalvalue{
+    color: white;
+    font-weight: bold;
+    margin-top: 5px;
+    margin-right: 10px;
+}
+.totalinputvalue{
+    width: 240px;
+    background-color: white;
+    border: 2px solid rgb(15, 55, 255);
+    height: 22px;
+    outline: 0;
+    font-weight: bold;
+    margin-top: 5px;
+    margin-right: 35px;
+}
+#abcd{
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+}
+
+
